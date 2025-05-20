@@ -74,11 +74,11 @@
     "config.tractor-volume.tooltip": "拖拉机声音效果的大小。默认值：{{defaultValue}}%。",
 
     // TODO
-    "config.tool-use-sounds-limit.name": "Tool Use Sounds",
-    "config.tool-use-sounds-limit.tooltip": "When applying a tool to many tiles around the tractor, which tool sounds should be played. The default option is '{{defaultOption}}'. Note that '{{unlimitedOption}}' may cause errors with larger ranges.",
-    "config.tool-use-sounds-limit.value.Default": "default",
-    "config.tool-use-sounds-limit.value.OncePerTick": "first tile applied",
-    "config.tool-use-sounds-limit.value.Unlimited": "play every sound (not recommended)",
+    "config.tool-use-sounds-limit.name": "工具使用音效",
+    "config.tool-use-sounds-limit.tooltip": "当对周围地块使用工具时，使用什么音效。默认为'{{defaultOption}}'。注意！作用于大范围时， '{{unlimitedOption}}' 可能会导致错误",
+    "config.tool-use-sounds-limit.value.Default": "默认",
+    "config.tool-use-sounds-limit.value.OncePerTick": "仅首个地块",
+    "config.tool-use-sounds-limit.value.Unlimited": "所有地块（不推荐）",
 
 
     /****
